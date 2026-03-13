@@ -1,0 +1,183 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+table {
+    width: 100%;
+    height:100vh;
+}
+
+.border:hover{
+    transform: scale(1.2);
+background-color: rgb(2, 2, 2);
+color: rgb(238, 243, 243);
+}
+
+.border{
+    transition: 0.3s;
+    width: 5%;
+    height: 8vh;
+}
+
+#tb{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.NM{
+    color :blue
+}
+
+.GN{
+    color :rgb(255, 94, 0)
+}
+
+.MA{
+    color :rgb(174, 0, 255)
+}
+
+.MAT{
+    color :rgb(44, 247, 4)
+}
+
+.SM{
+    color :rgb(230, 255, 4)
+}
+
+.HA{
+    color :rgb(255, 0, 0)
+}
+
+.OM{
+    color :rgb(105, 233, 255)
+}
+
+.MT{
+    color :rgb(247, 8, 235)
+}
+
+.LT{
+    color :rgb(116, 59, 248)
+}
+
+.AC{
+    color :rgb(252, 18, 154)
+}
+
+.quadrado1{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    margin-left: auto;
+}
+
+.leg1{
+    width: 50px;
+    height: 10vh;
+}
+
+.quadrado2{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(255, 94, 0);
+    margin-left: auto;
+}
+
+.leg2{
+    width: 50px;
+    height: 10vh;
+}
+.quadrado3{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(174, 0, 255);
+    margin-left: auto;
+}
+
+.leg3{
+    width: 50px;
+    height: 10vh;
+}
+.quadrado4{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(44, 247, 4);
+    margin-left: auto;
+}
+
+.leg4{
+    width: 50px;
+    height: 10vh;
+}
+
+.quadrado5{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(230, 255, 4);
+    margin-left: auto;
+}
+
+.leg5{
+    width: 50px;
+    height: 10vh;
+}
+.quadrado6{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(255, 0, 0);
+    margin-left: auto;
+}
+
+.leg6{
+    width: 50px;
+    height: 10vh;
+}
+
+.quadrado7{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(105, 233, 255);
+    margin-left: auto;
+}
+
+.leg7{
+    width: 50px;
+    height: 10vh;
+}
+.quadrado8{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(247, 8, 235);
+    margin-left: auto;
+}
+
+.leg8{
+    width: 50px;
+    height: 10vh;
+}
+
+.quadrado9{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(116, 59, 248);
+    margin-left: auto;
+}
+
+.leg9{
+    width: 50px;
+    height: 10vh;
+}
+
+.quadrado10{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(252, 18, 154);
+    margin-left: auto;
+}
+
+.leg10{
+    width: 50px;
+    height: 10vh;
+}
